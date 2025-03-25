@@ -110,4 +110,4 @@ Contributions, issues, and feature requests are welcome! Feel free to check the 
 
 ---
 
-Made with ❤️ by Vellanki Sri Charan
+By Vellanki Sri Charan
